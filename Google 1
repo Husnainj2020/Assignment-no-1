@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Husnain</title>
+    <link href="style.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>    <div class="button">
+    <a href="https://www.google.com/" target="_blank"><img src="googlelogo_color_92x30dp.png" width="200px"></a></div>
+    <div class="jutt">
+<h1>
+    Salman khan is an IMportant part of life.<img src="husnain.jpg"width="0px">
+</h1></div>
+    <div class="box">
+    <h1>
+        Husnain Developer
+    </h1>
+    <p>Husnain is an very happy peRSON.Ahmad is not an inportant part of life. but Muzamal is very very useless people and heartless.Husnain is an very nice person. All people 
+        love with Husnain but he cannot love all people he hate fake and lier people but some people love with Husnain. Everyone wish to meet Husnain but some lucky people to meet husnain.
+        God bless you. Thanyou For waste your time to read this discussion.
+        Pakistan Zindabad.
+    </p></div>
+<a href="https://www.instagram.com/" target="_blank">Instagram</a>
+  </div>
+  <img src="husnain.jpg" alt="picture"/> 
+<div class="circle">
+    <h2>
+     SALMAN KHAN $
+    </h2>
+</div>
+<!-- <div class="video-container">
+    <iframe width="400px" height="300px" src="salman khan attitude status 4k #shorts #salmankhan #status.mp4" frameborder="0" allowfullscreen></iframe>
+  </div> -->
+  <!-- <div class="salman-khan"> -->
+  <!-- <video loop autoplay controls> -->
+    <!-- my video<source src="ab.mp4" type="video/mp4"> -->
+  <!-- </video></div> -->
+  <!-- <video class="skworld" controls loop autoplay> My video
+    <source src="https://youtu.be/J1JoBY_huHk" type="video/mp4">
+  </video> -->
+  <!-- <div class="video-container"> -->
+  <!-- <iframe width="480px" height="200px" src="https://www.youtube.com/watch?v=NO3ft1K7N1Y" frameborde="0" allowfullscreen> -->
+  <!-- </iframe> -->
+  <!-- </div> -->
+<video class="responsivr-video" controls autoplay loop>
+</div>
+<source src="https://www.youtube.com/watch?v=NO3ft1K7N1Y">
+<p> My video</p>
+</video>
+</body>
+</html>
